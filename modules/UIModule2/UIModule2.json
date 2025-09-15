@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "68c7a4d66d77d151d3cc5d57_d99d428b-e590-4fb2-a606-a41a7790ca51",
+  "moduleUUID": "e12b8e3f-9f08-4568-a6dd-3d50cabe0581",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "oyqkzquigm",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 609,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 609,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 91,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UIModule2",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "caxcohykjg",
+        "sectionName": ""
+      }
+    ]
+  }
+}
